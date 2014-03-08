@@ -5,6 +5,6 @@ This is the pinteresting sample application for
 
 by [Eugene Hennie](http://eugenehennie.com)
 
-#I experimenting with changing the Readme.md file and pushing it on [Github](http://github.com)
+I'm experimenting with changing the Readme.md file and pushing it on [Github](http://github.com)
 
 Let's see what happens!
